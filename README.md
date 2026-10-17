@@ -215,15 +215,15 @@ O projeto segue dentro do escopo planejado e sem desvios críticos. As etapas in
 
 ## 📁 Documentação do projeto
 
-A documentação complementar será organizada neste repositório em seções específicas para:
+A documentação está organizada por artefato:
 
-- Termo de Abertura;
-- EAP / WBS;
-- cronograma e linha do tempo;
-- matriz de riscos;
-- matriz de stakeholders;
-- Status Report;
-- evidências do Jira.
+- [01 - Termo de Abertura](01-termo-de-abertura/)
+- [02 - EAP / WBS](02-eap-wbs/)
+- [03 - Cronograma](03-cronograma/)
+- [04 - Matriz de Riscos](04-riscos/)
+- [05 - Matriz de Stakeholders](05-stakeholders/)
+- [06 - Status Report](06-status-report/)
+- [07 - Evidências do Jira](07-jira/)
 
 ---
 
