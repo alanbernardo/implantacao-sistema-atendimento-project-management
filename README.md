@@ -215,15 +215,22 @@ O projeto segue dentro do escopo planejado e sem desvios críticos. As etapas in
 
 ## 📁 Documentação do projeto
 
-A documentação está organizada por artefato:
+Os principais artefatos produzidos para o projeto podem ser acessados diretamente abaixo:
 
-- [01 - Termo de Abertura](01-termo-de-abertura/)
-- [02 - EAP / WBS](02-eap-wbs/)
-- [03 - Cronograma](03-cronograma/)
-- [04 - Matriz de Riscos](04-riscos/)
-- [05 - Matriz de Stakeholders](05-stakeholders/)
-- [06 - Status Report](06-status-report/)
-- [07 - Evidências do Jira](07-jira/)
+- [📄 Termo de Abertura do Projeto](01-termo-de-abertura/Termo%20de%20Abertura%20do%20Projeto.pdf)
+- [🧩 EAP / WBS](02-eap-wbs/EAP-WBS.pdf)
+- [📅 Cronograma](03-cronograma/Cronograma.pdf)
+- [⚠️ Matriz de Riscos](04-riscos/Matriz%20de%20Riscos.pdf)
+- [👥 Matriz de Stakeholders](05-stakeholders/Matriz%20de%20Stakeholders.pdf)
+- [📊 Status Report](06-status-report/Status%20Report.pdf)
+- [🖥️ Evidências do Jira](07-jira/)
+
+### Evidências visuais no Jira
+
+- [Quadro Kanban](07-jira/kanban.png)
+- [Timeline do projeto](07-jira/timeline.png)
+- [Dependência — requisitos dos usuários](07-jira/dependencia-requisitos-usuarios.png)
+- [Dependência — requisitos técnicos](07-jira/dependencia-requisitos-tecnicos.png)
 
 ---
 
